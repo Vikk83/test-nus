@@ -6,3 +6,6 @@ Here is some normal text.
 
 * list item 1
 * list item 2
+
+![]Background 5.jpg
+
