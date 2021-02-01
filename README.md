@@ -7,5 +7,5 @@ Here is some normal text.
 * list item 1
 * list item 2
 
-![]Background5.jpg
+![](Background5.jpg)
 
